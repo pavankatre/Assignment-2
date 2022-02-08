@@ -1,19 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+/* This is for common font  */
 .ft{
     font-family: 'Roboto', sans-serif;
 }
+/* This is for heading  */
 .headd{
     font-size: 55px;
     font-weight: 700;
     letter-spacing: -.5px;
     text-align: center;
 }
-
+ /* This is for para  */
 .para{
     text-align: center;
     font-size: 18px;
     line-height: 28px;
 }
+/* this is for cards container  */
 .bx-container{
     width: 1000px;
     display: flex;
@@ -22,6 +25,7 @@
     margin-top: 47px;
     margin-left: 258px;
 }
+/* This css apply to all cards 🧧 */
 .card-1{
     height: 208px;
     width: 200px;
@@ -42,6 +46,7 @@ background: #fff;
     padding: 16px;
     position: relative;
 }
+/* This is for titel present in the cards  */
 .titel{
      font-size: 18px;
     line-height: 24px;
@@ -73,6 +78,7 @@ font-family: 'Roboto', sans-serif;
     font-weight: 400;
 
 }
+
 .link{
 
     bottom: 10px;
@@ -105,7 +111,8 @@ font-family: 'Roboto', sans-serif;
     font-weight: 500;
     line-height: 32px;
     
-} 
+}
+/* This is main container   */
 .container{
     background-color:#f5f6f8;
     width: 1500px;
@@ -127,6 +134,7 @@ border-radius: 5px;
     margin-top: 10px;
 
 }
+/* This is for common colour  */
 .cr{
     color: #3c4043;
 }
